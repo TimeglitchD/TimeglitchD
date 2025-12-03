@@ -4,12 +4,11 @@ I'm Diana. I'm a dutch woman born in 1998. I like programming sometimes and it's
 I absolutely love dogs, if someone offered to turn me into a dog I would say yes. I fear this makes me a furry.
 
 ## Projects
-### Advent of Code 2025
-[demo](https://timeglitchd.github.io/AdventOfCode2025/) | [code](https://github.com/TimeglitchD/AdventOfCode2025)
+- Advent of Code 2025 [demo](https://timeglitchd.github.io/AdventOfCode2025/) | [code](https://github.com/TimeglitchD/AdventOfCode2025)
 
 #
 
-Protect the dolls 🏳️‍🌈
+> Protect the dolls 🏳️‍🌈
 
 <!--
 **TimeglitchD/TimeglitchD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
